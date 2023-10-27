@@ -3,7 +3,7 @@ Unleashing Code Magic with Kishan 🚀<br><br>👋 Hey there, I'm Kishan, a Fron
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kish-han) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-r-3015a9246) 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
 
